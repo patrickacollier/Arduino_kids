@@ -34,19 +34,17 @@ Here's a diagram to help you visualize the setup:
 ```
     +5V
      |
-     |
    10k Ω
      |
-     |------+
-     |      |
-  +--|--+   |
-  |     |   |
-  |  o  |   |
-  |     |   |
-  +--|--+   |
-     |      |
-     |      |
-    GND    Pin 7
+     |
+  +--|--+
+  |     |
+  |  o  |
+  |     |
+  +--|--+
+     |
+     |
+    Pin 7   GND
 ```
 
 In this diagram:
